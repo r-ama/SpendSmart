@@ -1,7 +1,33 @@
 # SpendSmart
-CRUD mini app with C# for expenses version mini
-You can use VS to run project for that you need to add some packages : 
-Go menu -> Tools -> Nuget package lanager -> Manage Nuget packages for solutions
-Install EntityFramework6 (EF6) 10.0.9
-Install Microsoft.EntityFrameworkCore.InMemory 10.0.9
 
+## Overview
+SpendSmart is a personal expense tracking application built with ASP.NET Core and Entity Framework Core.
+
+## Features
+
+✔ Add expenses
+✔ Edit expenses
+✔ Delete expenses
+✔ View all expenses
+
+## Technologies
+
+- C#
+- ASP.NET Core
+- Entity Framework Core
+- In-Memory Database
+
+## Architecture
+
+- Controllers
+- Models
+- Services
+- Repository
+
+## Future Improvements
+
+- Authentication
+- SQL Server
+- Categories
+- Monthly reports
+- Search expense
